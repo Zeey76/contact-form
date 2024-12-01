@@ -171,9 +171,9 @@ button:active {
     border: 1.5px solid hsl(0, 66%, 54%);
 }
 
-@media (min-width: 40rem) {
+@media (min-width: 43rem) {
     form {
-        width: 37rem;
+        width: 38.5rem;
         padding: 2.5rem;
         gap: 2rem;
     }
@@ -192,7 +192,7 @@ button:active {
     }
 
     textarea {
-        height: 6rem;
+        height: 7rem;
     }
 
 }
