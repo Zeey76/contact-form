@@ -173,7 +173,7 @@ button:active {
 
 @media (min-width: 40rem) {
     form {
-        width: 36.5rem;
+        width: 7rem;
         padding: 2.5rem;
         gap: 2rem;
     }
