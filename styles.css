@@ -178,8 +178,11 @@ button:active {
     }
 
     .name {
-        display: grid;
-        grid-template-columns: 1fr 1fr;
+        flex-direction: row;
+    }
+
+    .name .form-group {
+        width: 50%;
     }
 
     .query-type-input {
