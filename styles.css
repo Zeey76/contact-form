@@ -175,6 +175,7 @@ button:active {
     form {
         width: 35rem;
         padding: 2rem;
+        gap: 2rem;
     }
 
     .name {
